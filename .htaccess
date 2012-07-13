@@ -1,0 +1,12 @@
+
+# Charset: UTF-8
+AddDefaultCharset UTF-8
+AddType text/x-less .less
+AddCharset UTF-8 .less
+AddCharset UTF-8 .css
+AddCharset UTF-8 .js
+
+ExpiresDefault access
+
+# Remove ETags
+FileETag None

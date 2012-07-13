@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="274px" height="27px"
+xml:space="preserve">
+<g id="78" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#333333;fill-opacity:1" d="M0.85,26.85L0.5 27L0.15 26.85L0 26.5L0 26L0 10.1L0.1 8.15Q1.1 0 11.55 0L262.3 0L262.45 0Q272.9 0 273.9 8.15L274 10.1L274 26L274 26.5L273.85 26.85L273.5 27L273.15 26.85L273 26.5L273 26L273 10.1L272.85 8.15Q271.75 1 262.45 1L262.3 1L11.55 1Q2.25 1 1.15 8.15Q1 9.05 1 10.1L1 26L1 26.5L0.85 26.85" />
+<linearGradient
+id="LinearGradID_86" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.52588e-005, -0.0174103, 0.026947, 1.52588e-005, 137.5, 15.45)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#333333;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#666666;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_86) " d="M262.3,26.5L11.2 26.5L1 26.5L1 26L1 10.1Q1 9.05 1.15 8.15Q2.25 1 11.55 1L262.3 1L262.45 1Q271.75 1 272.85 8.15L273 10.1L273 26L273 26.5L262.3 26.5" />
+</g>
+</svg>

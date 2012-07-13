@@ -1,0 +1,8 @@
+# Extract names
+ls *_* | while read filename; do mv "$filename" $(echo "$filename" | egrep -o '_[^)]+' | egrep -o '[^_]+').png; done
+
+# Camelcased => Hyphenized
+ls *.png | while read filename; do mv "$filename" $(echo "$filename" | sed 's/\([A-Z]\)/-\L\1/g'); done
+
+# Remove "-icon"
+ls *-icon.png | while read filename; do mv "$filename" $(echo "$filename" | sed 's/\(.*\)-icon\.png/\1/g').png; done

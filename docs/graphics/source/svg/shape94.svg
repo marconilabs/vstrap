@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="44px" height="22px"
+xml:space="preserve">
+<g id="66" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#CCCCCC;fill-opacity:1" d="M0,0L44 0L44 1L43 1L1 1L0 1L0 0M44,21L44 22L0 22L0 21L1 21L43 21L44 21" />
+<linearGradient
+id="LinearGradID_72" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, -0.0183105, 0.0183105, 0, 43.65, 15.95)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#585F63;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#B7BABC;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_72) " d="M43,1L44 1L44 21L43 21L43 1" />
+<linearGradient
+id="LinearGradID_73" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, -0.0183105, 0.0183105, 0, 0.65, 15.95)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#585F63;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#B7BABC;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_73) " d="M1,21L0 21L0 1L1 1L1 21" />
+<path style="fill:#FFFFFF;fill-opacity:1" d="M1.05,20.95L1.05 1.05L43 1.05L43 20.95L1.05 20.95" />
+<linearGradient
+id="LinearGradID_74" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, -0.0183105, 0.0183105, 0, 1.65, 15.95)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#585F63;stop-opacity:0.298039" />
+<stop  offset="1" style="stop-color:#B7BABC;stop-opacity:0.298039" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_74) " d="M2,1L2 21L1 21L1 1L2 1" />
+<linearGradient
+id="LinearGradID_75" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, -0.0183105, 0.0183105, 0, 42.65, 15.95)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#585F63;stop-opacity:0.298039" />
+<stop  offset="1" style="stop-color:#B7BABC;stop-opacity:0.298039" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_75) " d="M42,3.9L42 1L43 1L43 3.9L43 18.05L43 21L42 21L42 18.05L42 3.9" />
+</g>
+</svg>

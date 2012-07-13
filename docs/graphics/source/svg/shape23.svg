@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="45px" height="22px"
+xml:space="preserve">
+<g id="18" transform="matrix(1, 0, 0, 1, 0, 0)">
+<linearGradient
+id="LinearGradID_15" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6.10352e-005, -0.0131226, 0.0128174, 6.10352e-005, 12.5, 10.95)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#CCCCCC;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_15) " d="M1,1.05L1 0.5L44 0.5L44 21.5L1.15 21.5L1.15 20.75L0.5 20.75L0.5 1.05L1 1.05" />
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#FFFFFF;stroke-opacity:1" d="M42.5,1.3L4.6 1.3Q1.25 1.3 1.25 4.5L1.25 17.5Q1.25 20.7 4.6 20.7L42.15 20.7L42.2 1.7M42.15,20.7L42.5 20.7" />
+<path style="fill:#999999;fill-opacity:1" d="M2.5,1Q1 1 1 2.5L1 19.5Q1 21 2.5 21L44.1 21L44.1 22L2.5 22Q0 22 0 19.5L0 2.5Q0 0 2.5 0L44.1 0L44.1 1L2.5 1" />
+<linearGradient
+id="LinearGradID_16" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, -0.0183105, 0.0183105, 0, 43.65, 15.95)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#585F63;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#B7BABC;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_16) " d="M44,1L44 21L43 21L43 1L44 1" />
+<linearGradient
+id="LinearGradID_17" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, -0.0183105, 0.0183105, 0, 42.7, 15.95)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#585F63;stop-opacity:0.298039" />
+<stop  offset="1" style="stop-color:#B7BABC;stop-opacity:0.298039" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_17) " d="M42.05,4L42.05 1L43.05 1L43.05 4L43.05 18L43.05 21L42.05 21L42.05 18L42.05 4" />
+</g>
+</svg>
